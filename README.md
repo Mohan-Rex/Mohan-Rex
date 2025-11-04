@@ -1,7 +1,7 @@
 
 <!-- Profile README for Mohan S -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Hi+There!+👋;I'm+Mohan+S;MERN+Stack+Developer;Full+Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=1000&color=2D2D2D&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Mohan+S;MERN+Stack+Developer;Full+Stack+Engineer)](https://git.io/typing-svg)
 
 ---
 
